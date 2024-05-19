@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Pedido de Namoro</title>
+    <title>Pedido de Desculpas</title>
     <style>
         body {
             font-family: Arial, sans-serif;
