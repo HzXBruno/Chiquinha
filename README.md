@@ -138,7 +138,7 @@
 
 <body>
     <div class="pedido">
-        <h1>Quer namorar comigo?</h1>
+        <h1>Desculpas-me?</h1>
     </div>
     <div class="botoes">
         <button id="sim" class="botao">Sim</button>
