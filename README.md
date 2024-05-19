@@ -145,7 +145,7 @@
         <button id="nao" class="botao">Não</button>
     </div>
     <div id="animacao" class="animacao">
-        Parabéns! Você aceitou o pedido de namoro. 🎉
+       EBAAAAAA. 🎉
     </div>
 </body>
 
